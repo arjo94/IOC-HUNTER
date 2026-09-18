@@ -1,0 +1,6 @@
+{
+  "name": "IOC Hunter",
+  "description": "Herramienta de Ciberseguridad y Threat Intelligence para escanear logs (CSV, JSON, Syslog), detectar IOCs (IPs, dominios, hashes) cruzando feeds como URLhaus, AbuseIPDB y OTX, y exportar reportes en CSV/PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
